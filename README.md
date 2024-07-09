@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JustAnotherErik
-- 👀 I’m interested in Games and Discord (Basic I know)
-- 🌱 I’m currently learning Python (who isn't?)
-- 💞️ I’m looking to collaborate on Runescape related clinets like Runelite
+- 👀 I’m interested in Video games and indie game development.
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: on Discord #JustAnotherErik#0001
 
 <!---
